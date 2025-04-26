@@ -1,0 +1,33 @@
+
+body {
+    background: linear-gradient(to bottom, #3498db, #2ecc71);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.login-container {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.logo {
+    width: 150px;
+}
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button {
+    padding: 10px 30px;
+    background-color: #2ecc71;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #27ae60;
+}
